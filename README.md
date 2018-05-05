@@ -1,6 +1,6 @@
-# Piazza study resources downloaderi
-## Note: this script is based on the [original](https://github.com/warmspringwinds/piazza_resources_downloader) I just fixed it to run compitible with Python3
-###warmspringwinds is so insightful to find that we do not need to use authentification info to post and get and download. I was at first stuck in the login problem until I found this awesome work.
+# Piazza study resources downloader
+## Note: this script is based on the [original repo here](https://github.com/warmspringwinds/piazza_resources_downloader) I just fixed it to run compitible with Python3
+### warmspringwinds is so insightful to find that we do not need to use authentification info to post and get and download. I was at first stuck in the login problem until I found this awesome work.
 
 Provides you with an ability to download all resources linked in the piazza resources panel.
 
