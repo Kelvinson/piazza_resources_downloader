@@ -1,0 +1,37 @@
+Lec1_Introduction.pdf
+Lec2_Prediction_with_Expert_Advice.pdf
+Lec3_Prediction_with_Expert_Advice.pdf
+Lec4_Prediction with Expert Advice.pdf
+Lec5_Online_Linear_Classification.pdf
+Lec6_Online_Linear_Classification.pdf
+Lec7_Online_Convex_Optimization.pdf
+Lec7_Admoni_Learning_in_HRI.pdf
+Lec8_Follow_the_Leader.pdf
+Lec9_Deep_Learning.pdf
+Lec10_SVM_Adaboost.pdf
+Lec11_Bandits.pdf
+Lec12_Bandits_MDP.pdf
+Lec13_MDP_Dynamic_Programming.pdf
+Lec14_Dynamic_Programming_Monte_Carlo.pdf
+Lec15_Monte_Carlo.pdf
+Lec16_Monte_Carlo_Temporal_Differencing.pdf
+Lec17_Temporal_Differencing.pdf
+Lec18_Temporal_Differencing.pdf
+Lec18_Policy_Gradients.pdf
+Lec19_IRL_and_Linear_Programming.pdf
+Lec20_MaxentIRL_and_Applications.pdf
+Lec21_imitation_learning_lecture.pdf
+Lec22_Temporal_State_Models.pdf
+Lec23_Kroemer_BayesianOptimization.pdf
+Intro_Dhruv.pdf
+Intro_Alberto_Candela.pdf
+Intro_Dave_Held.pdf
+Derivative-free and Evolutionary Methods.pdf
+Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems
+Reinforcement Learning: An Introduction, by Sutton and Barto
+Online Learning and Online Convex Optimization
+HW4.zip
+HW3.zip
+HW2.zip
+HW1.zip
+RoboStats_FinalProject_Spring2018.pdf
